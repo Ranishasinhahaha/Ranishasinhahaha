@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranisha Sinha</h1>
-<h3 align="center">a second-year CSE undergrad at KIIT University</h3>
+<h3 align="center">a third-year CSE undergrad at KIIT University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranishasinhahaha&label=Profile%20views&color=0e75b6&style=flat" alt="ranishasinhahaha" /> </p>
 
