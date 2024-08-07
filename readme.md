@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranishasinhahaha" alt="ranishasinhahaha" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Backend Development**. 
 
 - 📫 How to reach me **ranishasinha2005@gmail.com**
 
